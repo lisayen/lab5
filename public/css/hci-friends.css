@@ -12,3 +12,16 @@
 h1, h2, h3, h4, h5 {
 	color: #8382BF;
 }
+
+a {
+	color: #000000;
+}
+
+a:hover, a:focus {
+	color: #000000;
+	text-decoration: none;
+}
+
+.friend {
+	max-width: 250px;
+}
